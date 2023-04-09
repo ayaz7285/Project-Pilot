@@ -1,0 +1,70 @@
+{
+    "weekTasks": [
+      {
+        "id": 1,
+        "task":"Add controller1",
+        "project": "Rakuten Ichiba Website",
+        "info": "Create tables for product database. Write new controllers. Write loggers for each of them",
+        "severity": "major",
+        "date":"13 Dec"
+      },
+      {
+        "id": 2,
+        "task":"Add controller2",
+        "project": "Rakuten Stay Website",
+        "info": "Create tables for hotels database. Write new controllers. Write loggers for each of them",
+        "severity": "minor",
+        "date":"17 Dec"
+      },
+      {
+        "id": 3,
+        "task":"Add controller3",
+        "project": "Rakuten Insights Website",
+        "info": "Create tables for product database. Write new controllers. Write loggers for each of them",
+        "severity": "critical",
+        "date":"14 Dec"
+      },
+      {
+        "id": 4,
+        "task":"Add controller4",
+        "project": "Rakuten Edy Website",
+        "info": "Create tables for product database. Write new controllers. Write loggers for each of them",
+        "severity": "low",
+        "date":"15 Dec"
+      },
+      {
+        "id": 5,
+        "task":"Add controller5",
+        "project": "Rakuten Symphony Website",
+        "info": "Create tables for product database. Write new controllers. Write loggers for each of them",
+        "severity": "major",
+        "date":"14 Dec"
+      },
+      {
+        "id": 6,
+        "task":"Add controller6",
+        "project": "Rakuten Mobile Website",
+        "info": "Create tables for product database. Write new controllers. Write loggers for each of them",
+        "severity": "low",
+        "date":"16 Dec"
+      },
+
+      {
+        "id": 7,
+        "task":"Add controller7",
+        "project": "Rakuten Pay Website",
+        "info": "Create tables for product database. Write new controllers. Write loggers for each of them",
+        "severity": "minor",
+        "date":"18 Dec"
+      },
+      {
+        "id": 8,
+        "task":"Add controller8",
+        "project": "Rakuten Kubo Website",
+        "info": "Create tables for product database. Write new controllers. Write loggers for each of them",
+        "severity": "major",
+        "date":"15 Dec"
+      }
+    ]
+  }
+  
